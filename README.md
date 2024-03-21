@@ -1,4 +1,4 @@
-# Swift Length Converter
+# Swift To-Do List
 
 Table of Contents
 
@@ -14,7 +14,7 @@ Table of Contents
     - Social Media
 
 Introduction
-    This project is a simple length converter developed using HTML, CSS, and JavaScript. It allows users to convert between different units of length, such as meters, kilometers, miles, feet, and inches.
+    This project is a simple to-do application developed using HTML, CSS, and JavaScript. It allows users to add tasks or items, tick or select the completed tasks or items and also remove the completed tasks or items.
 
 Live Demo <https://rogbuagu05.github.io/swift-length-converter/>
 
