@@ -3,7 +3,6 @@
 Table of Contents
 
     - Introduction
-    - Live Demo
     - Features
     - Technologies
     - Installation
@@ -15,8 +14,6 @@ Table of Contents
 
 Introduction
     This project is a simple to-do application developed using HTML, CSS, and JavaScript. It allows users to add tasks or items, tick or select the completed tasks or items and also remove the completed tasks or items.
-
-Live Demo <https://rogbuagu05.github.io/swift-length-converter/>
 
 Features
     User-friendly interface.
