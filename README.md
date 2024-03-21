@@ -39,7 +39,7 @@ Usage
     4. When all task or items has been achieved at a time, click on the 'Delete All' at the lower right corner to clear all tasks or items.
 
 Preview
-    ![Alt text](<Swift To-do-1.png>)
+    ![Alt text](<Swift To-do.png>)
 
 Contribution
     I am open to contributions on this project! If you have any suggestions or improvements, please feel free to open an issue or pull request on GitHub.
