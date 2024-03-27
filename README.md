@@ -26,7 +26,7 @@ Technologies
     JavaScript: for adding interactivity to the web page
 
 Usage
-    1. Visit the live demo site.
+    1. You can use the code and enable a live preview.
     2. Enter the task or list of items you want do or achieve and press Add button.
     3. At the lower left corner, it displays the number of items or tasks to be done or carried out.
     4. When all task or items has been achieved at a time, click on the 'Delete All' at the lower right corner to clear all tasks or items.
