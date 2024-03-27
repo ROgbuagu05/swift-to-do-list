@@ -5,7 +5,6 @@ Table of Contents
     - Introduction
     - Features
     - Technologies
-    - Installation
     - Usage
     - Contributing
     - Licensing
@@ -26,17 +25,11 @@ Technologies
     CSS: for styling the web page
     JavaScript: for adding interactivity to the web page
 
-Installation
-    This is a web-based application and requires no installation. Simply visit the live demo link above to access the To-Do list.
-
 Usage
     1. Visit the live demo site.
     2. Enter the task or list of items you want do or achieve and press Add button.
     3. At the lower left corner, it displays the number of items or tasks to be done or carried out.
     4. When all task or items has been achieved at a time, click on the 'Delete All' at the lower right corner to clear all tasks or items.
-
-Preview
-    ![Swift To-do](https://github.com/ROgbuagu05/swift-to-do-list/assets/123234565/ed37d3d8-75ab-44f9-9240-e9abf3a16935)
 
 Contribution
     I am open to contributions on this project! If you have any suggestions or improvements, please feel free to open an issue or pull request on GitHub.
